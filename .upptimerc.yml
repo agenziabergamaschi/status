@@ -6,11 +6,11 @@ sites:
   - name: Agenzia Bergamaschi Real Estate (frontend)
     url: https://agenziabergamaschi.com
   - name: Agenzia Bergamaschi Real Estate (backend)
-    url: https://api.agenziabergamaschi.com/agenziabergamaschi
+    url: https://api.agenziabergamaschi.com/agenziabergamaschi/
   - name: Spazio Tricolore (frontend)
     url: https://spaziotricolore.it
   - name: Spazio Tricolore (backend)
-    url: https://api.agenziabergamaschi.com/spaziotricolore
+    url: https://api.agenziabergamaschi.com/spaziotricolore/
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
 
