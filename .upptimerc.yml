@@ -3,14 +3,18 @@ owner: agenziabergamaschi # Your GitHub organization or username, where this rep
 repo: status # The name of this repository
 
 sites:
-  - name: Agenzia Bergamaschi Real Estate (frontend)
+  - name: Agenzia Bergamaschi Real Estate
     url: https://agenziabergamaschi.com
+  - name: Agenzia Bergamaschi Real Estate (test)
+    url: $URL_TEST_AB
   - name: Agenzia Bergamaschi Real Estate (backend)
     url: https://api.agenziabergamaschi.com/agenziabergamaschi/
-  - name: Spazio Tricolore (frontend)
+  - name: Spazio Tricolore
     url: https://spaziotricolore.it
-  - name: Spazio Tricolore (backend)
-    url: https://api.agenziabergamaschi.com/spaziotricolore/
+  - name: Spazio Tricolore (test)
+    url: $URL_TEST_ST
+  # - name: Spazio Tricolore (backend)
+  #   url: https://api.agenziabergamaschi.com/spaziotricolore/
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
 
@@ -22,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introMessage: 
   navbar:
     - title: Status
       href: /
