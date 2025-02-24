@@ -7,14 +7,14 @@ sites:
     url: https://agenziabergamaschi.com
   - name: Agenzia Bergamaschi Real Estate (test)
     url: $URL_TEST_AB
-  - name: Agenzia Bergamaschi Real Estate (backend)
-    url: https://api.agenziabergamaschi.com/agenziabergamaschi/
+  # - name: Agenzia Bergamaschi Real Estate (backend)
+  #   url: https://api.agenziabergamaschi.com/agenziabergamaschi/
   - name: Spazio Tricolore
     url: https://spaziotricolore.it
   - name: Spazio Tricolore (test)
     url: $URL_TEST_ST
-  # - name: Spazio Tricolore (backend)
-  #   url: https://api.agenziabergamaschi.com/spaziotricolore/
+  - name: Spazio Tricolore (backend)
+    url: https://api.agenziabergamaschi.com/spaziotricolore/
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
 
