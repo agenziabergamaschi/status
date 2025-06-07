@@ -58,18 +58,20 @@
     "url": "$URL_TEST_ST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spazio-tricolore-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 839,
-    "timeWeek": 831,
-    "timeMonth": 1005,
-    "timeYear": 796,
-    "dailyMinutesDown": {}
+    "time": 794,
+    "timeDay": 742,
+    "timeWeek": 808,
+    "timeMonth": 993,
+    "timeYear": 794,
+    "dailyMinutesDown": {
+      "2025-06-07": 0
+    }
   },
   {
     "name": "Spazio Tricolore (backend)",
