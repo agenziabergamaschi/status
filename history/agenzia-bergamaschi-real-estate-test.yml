@@ -1,7 +1,7 @@
 url: $URL_TEST_AB
-status: up
-code: 200
-responseTime: 669
-lastUpdated: 2025-12-05T23:24:06.111Z
+status: down
+code: 415
+responseTime: 470
+lastUpdated: 2025-12-06T00:57:36.945Z
 startTime: 2025-02-24T14:55:08.214Z
 generator: Upptime <https://github.com/upptime/upptime>
