@@ -1,7 +1,7 @@
 url: https://api.agenziabergamaschi.com/spaziotricolore/
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2026-01-05T16:51:47.390Z
+status: down
+code: 415
+responseTime: 1261
+lastUpdated: 2026-01-05T19:10:48.658Z
 startTime: 2025-02-24T14:58:02.444Z
 generator: Upptime <https://github.com/upptime/upptime>
