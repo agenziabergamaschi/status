@@ -4,19 +4,19 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "agenzia-bergamaschi-real-estate",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "99.38%",
     "time": 729,
     "timeDay": 678,
     "timeWeek": 671,
     "timeMonth": 641,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2026-02-18": 59,
+      "2026-02-18": 61,
       "2026-02-17": 81,
       "2026-02-16": 52,
       "2026-02-15": 48,
@@ -78,7 +78,7 @@
       "2025-11-16": 50,
       "2025-11-14": 27,
       "2025-11-12": 20,
-      "2025-11-08": 85
+      "2025-11-08": 27
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "$URL_TEST_AB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agenzia-bergamaschi-real-estate-test",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "96.94%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "97.13%",
     "uptimeMonth": "96.92%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 685,
     "timeDay": 638,
     "timeWeek": 658,
     "timeMonth": 633,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2026-02-18": 59,
+      "2026-02-18": 61,
       "2026-02-17": 81,
       "2026-02-16": 52,
       "2026-02-15": 48,
@@ -160,7 +160,7 @@
       "2025-11-16": 49,
       "2025-11-14": 27,
       "2025-11-12": 20,
-      "2025-11-08": 85
+      "2025-11-08": 27
     }
   },
   {
@@ -168,10 +168,10 @@
     "url": "https://spaziotricolore.it",
     "icon": "https://icons.duckduckgo.com/ip3/spaziotricolore.it.ico",
     "slug": "spazio-tricolore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "96.94%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "97.14%",
     "uptimeMonth": "96.85%",
     "uptimeYear": "99.38%",
     "time": 932,
@@ -180,7 +180,7 @@
     "timeMonth": 913,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2026-02-18": 59,
+      "2026-02-18": 60,
       "2026-02-17": 81,
       "2026-02-16": 51,
       "2026-02-15": 48,
@@ -240,8 +240,7 @@
       "2025-11-19": 34,
       "2025-11-18": 31,
       "2025-11-16": 49,
-      "2025-11-14": 27,
-      "2025-11-12": 20
+      "2025-11-14": 27
     }
   },
   {
@@ -249,19 +248,19 @@
     "url": "$URL_TEST_ST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spazio-tricolore-test",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "96.95%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "97.15%",
     "uptimeMonth": "96.93%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 916,
     "timeDay": 898,
     "timeWeek": 890,
     "timeMonth": 910,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-02-18": 59,
+      "2026-02-18": 60,
       "2026-02-17": 81,
       "2026-02-16": 51,
       "2026-02-15": 48,
@@ -322,8 +321,7 @@
       "2025-11-18": 32,
       "2025-11-16": 48,
       "2025-11-14": 27,
-      "2025-11-12": 21,
-      "2025-11-08": 27
+      "2025-11-12": 21
     }
   },
   {
@@ -331,10 +329,10 @@
     "url": "https://api.agenziabergamaschi.com/spaziotricolore/",
     "icon": "https://icons.duckduckgo.com/ip3/api.agenziabergamaschi.com.ico",
     "slug": "spazio-tricolore-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "96.96%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "97.16%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "99.32%",
     "time": 1019,
@@ -399,8 +397,7 @@
       "2025-12-02": 29,
       "2025-12-01": 34,
       "2025-11-30": 33,
-      "2025-11-29": 25,
-      "2025-11-28": 16
+      "2025-11-29": 25
     }
   },
   {
