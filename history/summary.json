@@ -4,17 +4,17 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "agenzia-bergamaschi-real-estate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "94.59%",
+    "uptimeDay": "96.90%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "95.85%",
+    "uptimeMonth": "95.90%",
     "uptimeYear": "99.32%",
     "time": 727,
-    "timeDay": 678,
-    "timeWeek": 850,
-    "timeMonth": 720,
-    "timeYear": 729,
+    "timeDay": 630,
+    "timeWeek": 838,
+    "timeMonth": 719,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2026-03-24": 44,
       "2026-03-23": 33,
@@ -74,7 +74,7 @@
       "2026-01-11": 36,
       "2026-01-07": 45,
       "2026-01-06": 51,
-      "2026-01-05": 34
+      "2026-01-05": 15
     }
   },
   {
@@ -82,17 +82,17 @@
     "url": "$URL_TEST_AB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agenzia-bergamaschi-real-estate-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "99.33%",
     "time": 683,
-    "timeDay": 643,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 685,
+    "timeDay": 579,
+    "timeWeek": 672,
+    "timeMonth": 675,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2026-03-24": 44,
       "2026-03-23": 34,
@@ -152,7 +152,7 @@
       "2026-01-11": 36,
       "2026-01-07": 45,
       "2026-01-06": 51,
-      "2026-01-05": 34
+      "2026-01-05": 15
     }
   },
   {
@@ -160,16 +160,16 @@
     "url": "https://spaziotricolore.it",
     "icon": "https://icons.duckduckgo.com/ip3/spaziotricolore.it.ico",
     "slug": "spazio-tricolore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.32%",
     "time": 929,
-    "timeDay": 843,
-    "timeWeek": 874,
-    "timeMonth": 911,
+    "timeDay": 738,
+    "timeWeek": 863,
+    "timeMonth": 908,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2026-03-24": 44,
@@ -229,8 +229,7 @@
       "2026-01-12": 51,
       "2026-01-11": 36,
       "2026-01-07": 45,
-      "2026-01-06": 51,
-      "2026-01-05": 15
+      "2026-01-06": 51
     }
   },
   {
@@ -238,16 +237,16 @@
     "url": "$URL_TEST_ST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spazio-tricolore-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "94.59%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "96.62%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "99.32%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "99.33%",
     "time": 915,
-    "timeDay": 872,
-    "timeWeek": 859,
-    "timeMonth": 905,
+    "timeDay": 687,
+    "timeWeek": 849,
+    "timeMonth": 899,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2026-03-24": 44,
@@ -308,7 +307,7 @@
       "2026-01-11": 36,
       "2026-01-07": 45,
       "2026-01-06": 51,
-      "2026-01-05": 34
+      "2026-01-05": 15
     }
   },
   {
@@ -316,17 +315,17 @@
     "url": "https://api.agenziabergamaschi.com/spaziotricolore/",
     "icon": "https://icons.duckduckgo.com/ip3/api.agenziabergamaschi.com.ico",
     "slug": "spazio-tricolore-backend",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "94.58%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "96.63%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "99.27%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "99.28%",
     "time": 1025,
-    "timeDay": 1117,
-    "timeWeek": 1086,
-    "timeMonth": 1044,
-    "timeYear": 1010,
+    "timeDay": 991,
+    "timeWeek": 1064,
+    "timeMonth": 1040,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2026-03-24": 44,
       "2026-03-23": 34,
@@ -383,7 +382,7 @@
       "2026-01-14": 18,
       "2026-01-13": 43,
       "2026-01-12": 51,
-      "2026-01-11": 36
+      "2026-01-11": 19
     }
   },
   {
