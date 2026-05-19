@@ -5,18 +5,39 @@ repo: status # The name of this repository
 sites:
   - name: Agenzia Bergamaschi Real Estate
     url: https://agenziabergamaschi.com
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
   - name: Agenzia Bergamaschi Real Estate (test)
     url: $URL_TEST_AB
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
   # - name: Agenzia Bergamaschi Real Estate (backend)
   #   url: https://api.agenziabergamaschi.com/agenziabergamaschi/
+  #   maxRetries: 5
+  #   connectTimeout: 45
+  #   requestTimeout: 90
   - name: Spazio Tricolore
     url: https://spaziotricolore.it
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
   - name: Spazio Tricolore (test)
     url: $URL_TEST_ST
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
   - name: Spazio Tricolore (backend)
     url: https://api.agenziabergamaschi.com/spaziotricolore/
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
