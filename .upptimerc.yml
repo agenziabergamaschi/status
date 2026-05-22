@@ -1,49 +1,46 @@
-# Change these first
-owner: agenziabergamaschi # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: agenziabergamaschi
+repo: status
 
 sites:
   - name: Agenzia Bergamaschi Real Estate
     url: https://agenziabergamaschi.com
+    slug: ab
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Agenzia Bergamaschi Real Estate (test)
     url: $URL_TEST_AB
+    slug: ab-test
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
-  # - name: Agenzia Bergamaschi Real Estate (backend)
-  #   url: https://api.agenziabergamaschi.com/agenziabergamaschi/
-  #   maxRetries: 5
-  #   connectTimeout: 45
-  #   requestTimeout: 90
   - name: Spazio Tricolore
     url: https://spaziotricolore.it
+    slug: st-frontend
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Spazio Tricolore (test)
     url: $URL_TEST_ST
+    slug: st-test
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Spazio Tricolore (backend)
     url: https://api.agenziabergamaschi.com/spaziotricolore/
+    slug: st-backend
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
+    slug: monitor
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.agenziabergamaschi.com
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -53,6 +50,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow: /"
 
 assignees:
   - rberga06
