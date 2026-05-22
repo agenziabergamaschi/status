@@ -2,6 +2,8 @@ owner: agenziabergamaschi
 repo: status
 
 sites:
+
+  # ABRE
   - name: Agenzia Bergamaschi Real Estate
     url: https://agenziabergamaschi.com
     slug: ab
@@ -14,24 +16,31 @@ sites:
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
+
+  # ST
   - name: Spazio Tricolore
     url: https://spaziotricolore.it
+    icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st-frontend
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Spazio Tricolore (test)
     url: $URL_TEST_ST
+    icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st-test
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
   - name: Spazio Tricolore (backend)
     url: https://api.agenziabergamaschi.com/spaziotricolore/
+    icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st-backend
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
+
+  # Monitor
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
     slug: monitor
