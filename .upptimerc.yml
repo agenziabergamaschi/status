@@ -32,13 +32,6 @@ sites:
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
-  - name: Spazio Tricolore (auth server)
-    url: $URL_ST_AUTH
-    icon: https://spaziotricolore.it/icon/icon-1024x1024.png
-    slug: st-auth
-    maxRetries: 5
-    connectTimeout: 45
-    requestTimeout: 90
   - name: Spazio Tricolore (backend)
     url: https://api.agenziabergamaschi.com/spaziotricolore/
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
