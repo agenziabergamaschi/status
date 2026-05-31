@@ -63,19 +63,19 @@
     "url": "$URL_ST_AUTH",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-auth",
-    "status": "down",
-    "uptime": "47.81%",
-    "uptimeDay": "47.81%",
-    "uptimeWeek": "47.81%",
-    "uptimeMonth": "47.81%",
-    "uptimeYear": "47.81%",
-    "time": 583,
-    "timeDay": 583,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "status": "up",
+    "uptime": "6.43%",
+    "uptimeDay": "6.43%",
+    "uptimeWeek": "6.43%",
+    "uptimeMonth": "6.43%",
+    "uptimeYear": "6.43%",
+    "time": 850,
+    "timeDay": 850,
+    "timeWeek": 850,
+    "timeMonth": 850,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2026-05-31": 0
+      "2026-05-31": 5
     }
   },
   {
