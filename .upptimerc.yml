@@ -25,10 +25,10 @@ sites:
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
-  - name: Spazio Tricolore (test)
-    url: $URL_TEST_ST
+  - name: Spazio Tricolore (auth server)
+    url: $URL_ST_AUTH
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
-    slug: st-test
+    slug: st-auth
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
@@ -36,6 +36,13 @@ sites:
     url: https://api.agenziabergamaschi.com/spaziotricolore/
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st-backend
+    maxRetries: 5
+    connectTimeout: 45
+    requestTimeout: 90
+  - name: Spazio Tricolore (test)
+    url: $URL_TEST_ST
+    icon: https://spaziotricolore.it/icon/icon-1024x1024.png
+    slug: st-test
     maxRetries: 5
     connectTimeout: 45
     requestTimeout: 90
