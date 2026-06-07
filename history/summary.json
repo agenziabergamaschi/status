@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
     "status": "down",
-    "uptime": "93.36%",
-    "uptimeDay": "30.80%",
-    "uptimeWeek": "85.09%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "93.36%",
+    "uptime": "92.21%",
+    "uptimeDay": "30.29%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "92.21%",
     "time": 639,
     "timeDay": 701,
-    "timeWeek": 661,
+    "timeWeek": 675,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -20,8 +20,9 @@
       "2026-06-01": 118,
       "2026-06-03": 102,
       "2026-06-02": 154,
-      "2026-06-06": 971,
-      "2026-06-05": 25
+      "2026-06-06": 1004,
+      "2026-06-05": 25,
+      "2026-06-07": 248
     }
   },
   {
@@ -30,14 +31,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ab-test",
     "status": "down",
-    "uptime": "93.63%",
-    "uptimeDay": "33.34%",
-    "uptimeWeek": "85.70%",
-    "uptimeMonth": "93.63%",
-    "uptimeYear": "93.63%",
+    "uptime": "92.48%",
+    "uptimeDay": "31.98%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "92.48%",
+    "uptimeYear": "92.48%",
     "time": 652,
     "timeDay": 718,
-    "timeWeek": 650,
+    "timeWeek": 664,
     "timeMonth": 652,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -45,8 +46,9 @@
       "2026-06-01": 118,
       "2026-06-03": 103,
       "2026-06-02": 154,
-      "2026-06-06": 948,
-      "2026-06-05": 13
+      "2026-06-06": 980,
+      "2026-06-05": 13,
+      "2026-06-07": 248
     }
   },
   {
@@ -55,22 +57,23 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-frontend",
     "status": "down",
-    "uptime": "94.62%",
-    "uptimeDay": "35.88%",
-    "uptimeWeek": "87.93%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "94.62%",
+    "uptime": "93.46%",
+    "uptimeDay": "33.67%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "93.46%",
     "time": 1072,
     "timeDay": 1149,
-    "timeWeek": 1192,
+    "timeWeek": 1221,
     "timeMonth": 1072,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2026-05-31": 37,
       "2026-06-03": 103,
       "2026-06-02": 154,
-      "2026-06-06": 923,
-      "2026-06-05": 1
+      "2026-06-06": 955,
+      "2026-06-05": 1,
+      "2026-06-07": 248
     }
   },
   {
@@ -79,13 +82,13 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-auth",
     "status": "down",
-    "uptime": "88.05%",
-    "uptimeDay": "52.38%",
-    "uptimeWeek": "88.05%",
-    "uptimeMonth": "88.05%",
-    "uptimeYear": "88.05%",
+    "uptime": "85.44%",
+    "uptimeDay": "42.81%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "85.44%",
+    "uptimeYear": "85.44%",
     "time": 1359,
-    "timeDay": 1591,
+    "timeDay": 1718,
     "timeWeek": 1359,
     "timeMonth": 1359,
     "timeYear": 1359,
@@ -94,7 +97,8 @@
       "2026-06-01": 97,
       "2026-06-03": 103,
       "2026-06-02": 153,
-      "2026-06-06": 686
+      "2026-06-06": 718,
+      "2026-06-07": 248
     }
   },
   {
@@ -103,13 +107,13 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-backend",
     "status": "down",
-    "uptime": "95.59%",
-    "uptimeDay": "56.67%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "95.59%",
+    "uptime": "94.41%",
+    "uptimeDay": "46.25%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "94.41%",
     "time": 1195,
-    "timeDay": 1418,
+    "timeDay": 1444,
     "timeWeek": 1240,
     "timeMonth": 1195,
     "timeYear": 1195,
@@ -118,7 +122,8 @@
       "2026-05-31": 21,
       "2026-06-03": 103,
       "2026-06-02": 153,
-      "2026-06-06": 624
+      "2026-06-06": 657,
+      "2026-06-07": 248
     }
   },
   {
@@ -127,14 +132,14 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-test",
     "status": "down",
-    "uptime": "95.80%",
-    "uptimeDay": "59.21%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "95.80%",
-    "uptimeYear": "95.80%",
+    "uptime": "94.63%",
+    "uptimeDay": "47.95%",
+    "uptimeWeek": "87.80%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
     "time": 1219,
-    "timeDay": 1047,
-    "timeWeek": 1535,
+    "timeDay": 1174,
+    "timeWeek": 1578,
     "timeMonth": 1219,
     "timeYear": 1219,
     "dailyMinutesDown": {
@@ -142,7 +147,8 @@
       "2026-05-31": 9,
       "2026-06-03": 103,
       "2026-06-02": 153,
-      "2026-06-06": 588
+      "2026-06-06": 620,
+      "2026-06-07": 248
     }
   },
   {
@@ -157,8 +163,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 385,
-    "timeWeek": 378,
+    "timeDay": 0,
+    "timeWeek": 371,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {}
