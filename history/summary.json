@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
     "status": "down",
-    "uptime": "87.48%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "71.22%",
-    "uptimeMonth": "87.48%",
-    "uptimeYear": "87.48%",
+    "uptime": "86.83%",
+    "uptimeDay": "58.58%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "86.83%",
+    "uptimeYear": "86.83%",
     "time": 624,
     "timeDay": 477,
     "timeWeek": 594,
@@ -25,7 +25,7 @@
       "2026-06-07": 934,
       "2026-06-08": 481,
       "2026-06-09": 331,
-      "2026-06-10": 126
+      "2026-06-10": 327
     }
   },
   {
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ab-test",
     "status": "down",
-    "uptime": "88.26%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "88.26%",
+    "uptime": "87.61%",
+    "uptimeDay": "67.56%",
+    "uptimeWeek": "71.08%",
+    "uptimeMonth": "87.61%",
+    "uptimeYear": "87.61%",
     "time": 1341,
     "timeDay": 448,
     "timeWeek": 3008,
@@ -54,7 +54,7 @@
       "2026-06-07": 898,
       "2026-06-08": 508,
       "2026-06-09": 201,
-      "2026-06-10": 113
+      "2026-06-10": 315
     }
   },
   {
@@ -63,11 +63,11 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-frontend",
     "status": "down",
-    "uptime": "89.40%",
-    "uptimeDay": "83.26%",
-    "uptimeWeek": "74.29%",
-    "uptimeMonth": "89.40%",
-    "uptimeYear": "89.40%",
+    "uptime": "88.74%",
+    "uptimeDay": "69.25%",
+    "uptimeWeek": "72.29%",
+    "uptimeMonth": "88.74%",
+    "uptimeYear": "88.74%",
     "time": 1047,
     "timeDay": 854,
     "timeWeek": 993,
@@ -82,7 +82,7 @@
       "2026-06-07": 861,
       "2026-06-08": 496,
       "2026-06-09": 177,
-      "2026-06-10": 101
+      "2026-06-10": 303
     }
   },
   {
@@ -90,12 +90,12 @@
     "url": "$URL_ST_AUTH",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-auth",
-    "status": "up",
-    "uptime": "81.19%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "78.38%",
-    "uptimeMonth": "81.19%",
-    "uptimeYear": "81.19%",
+    "status": "down",
+    "uptime": "81.28%",
+    "uptimeDay": "89.43%",
+    "uptimeWeek": "78.13%",
+    "uptimeMonth": "81.28%",
+    "uptimeYear": "81.28%",
     "time": 1423,
     "timeDay": 1602,
     "timeWeek": 1560,
@@ -109,7 +109,8 @@
       "2026-06-06": 718,
       "2026-06-07": 825,
       "2026-06-08": 484,
-      "2026-06-09": 153
+      "2026-06-09": 153,
+      "2026-06-10": 25
     }
   },
   {
@@ -117,12 +118,12 @@
     "url": "https://api.agenziabergamaschi.com/spaziotricolore/",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-backend",
-    "status": "up",
-    "uptime": "91.31%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "80.25%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "91.31%",
+    "status": "down",
+    "uptime": "91.32%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "80.13%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "91.32%",
     "time": 1191,
     "timeDay": 817,
     "timeWeek": 1292,
@@ -136,7 +137,8 @@
       "2026-06-06": 657,
       "2026-06-07": 788,
       "2026-06-08": 430,
-      "2026-06-09": 115
+      "2026-06-09": 115,
+      "2026-06-10": 12
     }
   },
   {
@@ -144,12 +146,12 @@
     "url": "$URL_TEST_ST",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-test",
-    "status": "up",
-    "uptime": "91.75%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "81.34%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "91.75%",
+    "status": "down",
+    "uptime": "91.81%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "81.33%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "91.81%",
     "time": 1162,
     "timeDay": 719,
     "timeWeek": 1578,
@@ -163,7 +165,8 @@
       "2026-06-06": 620,
       "2026-06-07": 752,
       "2026-06-08": 406,
-      "2026-06-09": 103
+      "2026-06-09": 103,
+      "2026-06-10": 0
     }
   },
   {
