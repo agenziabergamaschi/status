@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
     "status": "down",
-    "uptime": "83.60%",
-    "uptimeDay": "58.83%",
-    "uptimeWeek": "54.97%",
-    "uptimeMonth": "83.60%",
-    "uptimeYear": "83.60%",
+    "uptime": "81.89%",
+    "uptimeDay": "14.32%",
+    "uptimeWeek": "49.93%",
+    "uptimeMonth": "81.89%",
+    "uptimeYear": "81.89%",
     "time": 621,
-    "timeDay": 539,
-    "timeWeek": 592,
+    "timeDay": 407,
+    "timeWeek": 587,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
@@ -27,7 +27,8 @@
       "2026-06-09": 331,
       "2026-06-10": 877,
       "2026-06-11": 295,
-      "2026-06-12": 592
+      "2026-06-12": 1125,
+      "2026-06-13": 108
     }
   },
   {
@@ -36,14 +37,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ab-test",
     "status": "down",
-    "uptime": "84.79%",
-    "uptimeDay": "59.70%",
-    "uptimeWeek": "58.36%",
-    "uptimeMonth": "84.79%",
-    "uptimeYear": "84.79%",
+    "uptime": "83.06%",
+    "uptimeDay": "15.18%",
+    "uptimeWeek": "53.20%",
+    "uptimeMonth": "83.06%",
+    "uptimeYear": "83.06%",
     "time": 1271,
-    "timeDay": 691,
-    "timeWeek": 2734,
+    "timeDay": 620,
+    "timeWeek": 2865,
     "timeMonth": 1271,
     "timeYear": 1271,
     "dailyMinutesDown": {
@@ -58,7 +59,8 @@
       "2026-06-09": 201,
       "2026-06-10": 735,
       "2026-06-11": 283,
-      "2026-06-12": 580
+      "2026-06-12": 1113,
+      "2026-06-13": 108
     }
   },
   {
@@ -67,14 +69,14 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-frontend",
     "status": "down",
-    "uptime": "85.91%",
-    "uptimeDay": "60.56%",
-    "uptimeWeek": "59.93%",
-    "uptimeMonth": "85.91%",
-    "uptimeYear": "85.91%",
+    "uptime": "84.16%",
+    "uptimeDay": "16.05%",
+    "uptimeWeek": "54.65%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "84.16%",
     "time": 1041,
-    "timeDay": 864,
-    "timeWeek": 978,
+    "timeDay": 740,
+    "timeWeek": 971,
     "timeMonth": 1041,
     "timeYear": 1041,
     "dailyMinutesDown": {
@@ -88,7 +90,8 @@
       "2026-06-09": 177,
       "2026-06-10": 710,
       "2026-06-11": 271,
-      "2026-06-12": 568
+      "2026-06-12": 1101,
+      "2026-06-13": 108
     }
   },
   {
@@ -97,14 +100,14 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-auth",
     "status": "down",
-    "uptime": "79.29%",
-    "uptimeDay": "61.42%",
-    "uptimeWeek": "68.49%",
-    "uptimeMonth": "79.29%",
-    "uptimeYear": "79.29%",
+    "uptime": "76.46%",
+    "uptimeDay": "16.91%",
+    "uptimeWeek": "63.09%",
+    "uptimeMonth": "76.46%",
+    "uptimeYear": "76.46%",
     "time": 1437,
-    "timeDay": 1404,
-    "timeWeek": 1545,
+    "timeDay": 1201,
+    "timeWeek": 1544,
     "timeMonth": 1437,
     "timeYear": 1437,
     "dailyMinutesDown": {
@@ -118,7 +121,8 @@
       "2026-06-09": 153,
       "2026-06-10": 419,
       "2026-06-11": 22,
-      "2026-06-12": 556
+      "2026-06-12": 1088,
+      "2026-06-13": 108
     }
   },
   {
@@ -126,17 +130,17 @@
     "url": "https://api.agenziabergamaschi.com/spaziotricolore/",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-backend",
-    "status": "down",
-    "uptime": "89.23%",
-    "uptimeDay": "62.29%",
-    "uptimeWeek": "70.85%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "89.23%",
-    "time": 1171,
-    "timeDay": 854,
-    "timeWeek": 1170,
-    "timeMonth": 1171,
-    "timeYear": 1171,
+    "status": "up",
+    "uptime": "87.41%",
+    "uptimeDay": "17.79%",
+    "uptimeWeek": "65.33%",
+    "uptimeMonth": "87.41%",
+    "uptimeYear": "87.41%",
+    "time": 1797,
+    "timeDay": 13280,
+    "timeWeek": 3205,
+    "timeMonth": 1797,
+    "timeYear": 1797,
     "dailyMinutesDown": {
       "2026-06-01": 97,
       "2026-05-31": 21,
@@ -147,7 +151,8 @@
       "2026-06-08": 430,
       "2026-06-09": 115,
       "2026-06-10": 404,
-      "2026-06-12": 543
+      "2026-06-12": 1076,
+      "2026-06-13": 108
     }
   },
   {
@@ -155,17 +160,17 @@
     "url": "$URL_TEST_ST",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-test",
-    "status": "down",
-    "uptime": "90.19%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "73.66%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "90.19%",
-    "time": 1339,
-    "timeDay": 841,
-    "timeWeek": 1575,
-    "timeMonth": 1339,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "88.35%",
+    "uptimeDay": "18.65%",
+    "uptimeWeek": "68.02%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "88.35%",
+    "time": 1332,
+    "timeDay": 831,
+    "timeWeek": 1567,
+    "timeMonth": 1332,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2026-06-01": 97,
       "2026-05-31": 9,
@@ -176,7 +181,8 @@
       "2026-06-08": 406,
       "2026-06-09": 103,
       "2026-06-10": 243,
-      "2026-06-12": 530
+      "2026-06-12": 1063,
+      "2026-06-13": 108
     }
   },
   {
@@ -190,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 327,
-    "timeWeek": 347,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 355,
+    "timeDay": 241,
+    "timeWeek": 332,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
