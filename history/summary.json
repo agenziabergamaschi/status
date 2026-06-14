@@ -4,12 +4,12 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "up",
-    "uptime": "78.95%",
-    "uptimeDay": "9.09%",
-    "uptimeWeek": "46.90%",
-    "uptimeMonth": "78.95%",
-    "uptimeYear": "78.95%",
+    "status": "down",
+    "uptime": "78.82%",
+    "uptimeDay": "10.69%",
+    "uptimeWeek": "47.13%",
+    "uptimeMonth": "78.82%",
+    "uptimeYear": "78.82%",
     "time": 619,
     "timeDay": 560,
     "timeWeek": 573,
@@ -29,7 +29,7 @@
       "2026-06-11": 295,
       "2026-06-12": 1125,
       "2026-06-13": 1309,
-      "2026-06-14": 4
+      "2026-06-14": 65
     }
   },
   {
@@ -37,12 +37,12 @@
     "url": "$URL_TEST_AB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ab-test",
-    "status": "up",
-    "uptime": "80.10%",
-    "uptimeDay": "9.93%",
-    "uptimeWeek": "50.05%",
-    "uptimeMonth": "80.10%",
-    "uptimeYear": "80.10%",
+    "status": "down",
+    "uptime": "80.01%",
+    "uptimeDay": "12.38%",
+    "uptimeWeek": "50.40%",
+    "uptimeMonth": "80.01%",
+    "uptimeYear": "80.01%",
     "time": 1246,
     "timeDay": 555,
     "timeWeek": 2844,
@@ -62,7 +62,7 @@
       "2026-06-11": 283,
       "2026-06-12": 1113,
       "2026-06-13": 1297,
-      "2026-06-14": 4
+      "2026-06-14": 53
     }
   },
   {
@@ -70,12 +70,12 @@
     "url": "https://spaziotricolore.it",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-frontend",
-    "status": "up",
-    "uptime": "81.20%",
-    "uptimeDay": "10.78%",
-    "uptimeWeek": "51.38%",
-    "uptimeMonth": "81.20%",
-    "uptimeYear": "81.20%",
+    "status": "down",
+    "uptime": "81.14%",
+    "uptimeDay": "14.07%",
+    "uptimeWeek": "51.85%",
+    "uptimeMonth": "81.14%",
+    "uptimeYear": "81.14%",
     "time": 1031,
     "timeDay": 764,
     "timeWeek": 923,
@@ -94,7 +94,7 @@
       "2026-06-11": 271,
       "2026-06-12": 1101,
       "2026-06-13": 1285,
-      "2026-06-14": 4
+      "2026-06-14": 41
     }
   },
   {
@@ -102,12 +102,12 @@
     "url": "$URL_ST_AUTH",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-auth",
-    "status": "up",
-    "uptime": "72.04%",
-    "uptimeDay": "11.62%",
-    "uptimeWeek": "57.70%",
-    "uptimeMonth": "72.04%",
-    "uptimeYear": "72.04%",
+    "status": "down",
+    "uptime": "72.03%",
+    "uptimeDay": "15.77%",
+    "uptimeWeek": "58.29%",
+    "uptimeMonth": "72.03%",
+    "uptimeYear": "72.03%",
     "time": 1433,
     "timeDay": 1375,
     "timeWeek": 1512,
@@ -126,7 +126,7 @@
       "2026-06-11": 22,
       "2026-06-12": 1088,
       "2026-06-13": 1273,
-      "2026-06-14": 4
+      "2026-06-14": 29
     }
   },
   {
@@ -134,10 +134,10 @@
     "url": "https://api.agenziabergamaschi.com/spaziotricolore/",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "84.59%",
-    "uptimeDay": "16.91%",
-    "uptimeWeek": "60.21%",
+    "uptimeDay": "21.90%",
+    "uptimeWeek": "60.92%",
     "uptimeMonth": "84.59%",
     "uptimeYear": "84.59%",
     "time": 1780,
@@ -157,7 +157,7 @@
       "2026-06-10": 404,
       "2026-06-12": 1076,
       "2026-06-13": 1196,
-      "2026-06-14": 4
+      "2026-06-14": 16
     }
   },
   {
@@ -165,12 +165,12 @@
     "url": "$URL_TEST_ST",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-test",
-    "status": "up",
-    "uptime": "85.56%",
-    "uptimeDay": "18.60%",
-    "uptimeWeek": "62.90%",
-    "uptimeMonth": "85.56%",
-    "uptimeYear": "85.56%",
+    "status": "down",
+    "uptime": "85.60%",
+    "uptimeDay": "24.44%",
+    "uptimeWeek": "63.73%",
+    "uptimeMonth": "85.60%",
+    "uptimeYear": "85.60%",
     "time": 1315,
     "timeDay": 857,
     "timeWeek": 1571,
@@ -202,11 +202,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 241,
-    "timeWeek": 323,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 350,
+    "timeDay": 232,
+    "timeWeek": 308,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
