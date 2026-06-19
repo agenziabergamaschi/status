@@ -6,33 +6,21 @@ sites:
   - name: Agenzia Bergamaschi Real Estate
     url: https://agenziabergamaschi.com
     slug: ab
-    maxRetries: 5
-    connectTimeout: 45
-    requestTimeout: 90
 
   # ST
   - name: Spazio Tricolore
     url: https://spaziotricolore.it
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st
-    maxRetries: 5
-    connectTimeout: 45
-    requestTimeout: 90
   - name: Spazio Tricolore (backend)
     url: https://api.agenziabergamaschi.com/spaziotricolore/
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     slug: st-api
-    maxRetries: 5
-    connectTimeout: 45
-    requestTimeout: 90
 
   # Monitor
   - name: Monitoraggio (questo sito web)
     url: https://status.agenziabergamaschi.com
     slug: monitor
-    maxRetries: 5
-    connectTimeout: 45
-    requestTimeout: 90
 
 status-website:
   cname: status.agenziabergamaschi.com
