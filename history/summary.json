@@ -4,17 +4,17 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "down",
-    "uptime": "69.44%",
-    "uptimeDay": "31.95%",
+    "status": "up",
+    "uptime": "69.36%",
+    "uptimeDay": "28.67%",
     "uptimeWeek": "28.85%",
-    "uptimeMonth": "69.44%",
-    "uptimeYear": "69.44%",
-    "time": 619,
-    "timeDay": 538,
-    "timeWeek": 613,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "uptimeMonth": "69.36%",
+    "uptimeYear": "69.36%",
+    "time": 620,
+    "timeDay": 549,
+    "timeWeek": 615,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2026-05-31": 131,
       "2026-06-01": 118,
@@ -34,7 +34,7 @@
       "2026-06-16": 1416,
       "2026-06-17": 656,
       "2026-06-18": 741,
-      "2026-06-19": 978
+      "2026-06-19": 1027
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 696
+      "2026-06-19": 746
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 695
+      "2026-06-19": 745
     }
   },
   {
