@@ -4,12 +4,12 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "up",
-    "uptime": "69.48%",
-    "uptimeDay": "30.53%",
-    "uptimeWeek": "27.17%",
-    "uptimeMonth": "69.48%",
-    "uptimeYear": "69.48%",
+    "status": "down",
+    "uptime": "69.55%",
+    "uptimeDay": "30.48%",
+    "uptimeWeek": "28.12%",
+    "uptimeMonth": "69.55%",
+    "uptimeYear": "69.55%",
     "time": 621,
     "timeDay": 555,
     "timeWeek": 622,
@@ -34,7 +34,7 @@
       "2026-06-16": 1416,
       "2026-06-17": 656,
       "2026-06-18": 741,
-      "2026-06-19": 877
+      "2026-06-19": 878
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 427
+      "2026-06-19": 523
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 426
+      "2026-06-19": 522
     }
   },
   {
