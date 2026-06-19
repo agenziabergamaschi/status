@@ -4,17 +4,17 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "down",
-    "uptime": "69.55%",
-    "uptimeDay": "30.48%",
-    "uptimeWeek": "28.12%",
-    "uptimeMonth": "69.55%",
-    "uptimeYear": "69.55%",
-    "time": 621,
-    "timeDay": 555,
-    "timeWeek": 622,
-    "timeMonth": 621,
-    "timeYear": 621,
+    "status": "up",
+    "uptime": "69.39%",
+    "uptimeDay": "26.91%",
+    "uptimeWeek": "28.13%",
+    "uptimeMonth": "69.39%",
+    "uptimeYear": "69.39%",
+    "time": 619,
+    "timeDay": 538,
+    "timeWeek": 613,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2026-05-31": 131,
       "2026-06-01": 118,
@@ -34,7 +34,7 @@
       "2026-06-16": 1416,
       "2026-06-17": 656,
       "2026-06-18": 741,
-      "2026-06-19": 878
+      "2026-06-19": 977
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 523
+      "2026-06-19": 622
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 522
+      "2026-06-19": 622
     }
   },
   {
