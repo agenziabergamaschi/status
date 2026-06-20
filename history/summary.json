@@ -4,12 +4,12 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "up",
-    "uptime": "68.10%",
-    "uptimeDay": "27.49%",
-    "uptimeWeek": "30.36%",
-    "uptimeMonth": "68.10%",
-    "uptimeYear": "68.10%",
+    "status": "down",
+    "uptime": "68.13%",
+    "uptimeDay": "29.19%",
+    "uptimeWeek": "30.99%",
+    "uptimeMonth": "68.13%",
+    "uptimeYear": "68.13%",
     "time": 624,
     "timeDay": 684,
     "timeWeek": 639,
@@ -35,7 +35,7 @@
       "2026-06-17": 656,
       "2026-06-18": 741,
       "2026-06-19": 1027,
-      "2026-06-20": 894
+      "2026-06-20": 904
     }
   },
   {
@@ -43,27 +43,29 @@
     "url": "https://spaziotricolore.it",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1156,
     "timeDay": 1156,
     "timeWeek": 1156,
     "timeMonth": 1156,
     "timeYear": 1156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-20": 5
+    }
   },
   {
     "name": "Spazio Tricolore (backend)",
     "url": "https://api.spaziotricolore.it",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +74,9 @@
     "timeWeek": 798,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-20": 0
+    }
   },
   {
     "name": "Monitoraggio (questo sito web)",
