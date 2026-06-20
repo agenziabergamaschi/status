@@ -14,7 +14,7 @@ sites:
     check: "tcp-ping"
     slug: st
   - name: Spazio Tricolore (backend)
-    url: https://api.agenziabergamaschi.com/spaziotricolore/
+    url: https://api.spaziotricolore.it
     icon: https://spaziotricolore.it/icon/icon-1024x1024.png
     check: "tcp-ping"
     slug: st-api
