@@ -6,13 +6,13 @@
     "slug": "ab",
     "status": "up",
     "uptime": "67.68%",
-    "uptimeDay": "17.45%",
-    "uptimeWeek": "31.00%",
+    "uptimeDay": "17.41%",
+    "uptimeWeek": "31.05%",
     "uptimeMonth": "67.68%",
     "uptimeYear": "67.68%",
     "time": 625,
     "timeDay": 752,
-    "timeWeek": 640,
+    "timeWeek": 644,
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
@@ -35,7 +35,8 @@
       "2026-06-17": 656,
       "2026-06-18": 741,
       "2026-06-19": 1027,
-      "2026-06-20": 1189
+      "2026-06-20": 1189,
+      "2026-06-21": 10
     }
   },
   {
@@ -45,7 +46,7 @@
     "slug": "st",
     "status": "up",
     "uptime": "87.30%",
-    "uptimeDay": "79.88%",
+    "uptimeDay": "79.53%",
     "uptimeWeek": "87.30%",
     "uptimeMonth": "87.30%",
     "uptimeYear": "87.30%",
@@ -55,7 +56,8 @@
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-06-20": 290
+      "2026-06-20": 290,
+      "2026-06-21": 5
     }
   },
   {
@@ -63,19 +65,20 @@
     "url": "https://api.spaziotricolore.it",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
-    "status": "up",
-    "uptime": "87.51%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "87.51%",
-    "uptimeMonth": "87.51%",
-    "uptimeYear": "87.51%",
+    "status": "down",
+    "uptime": "87.71%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "87.71%",
+    "uptimeMonth": "87.71%",
+    "uptimeYear": "87.71%",
     "time": 802,
     "timeDay": 802,
     "timeWeek": 802,
     "timeMonth": 802,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2026-06-20": 285
+      "2026-06-20": 285,
+      "2026-06-21": 0
     }
   },
   {
@@ -89,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 426,
-    "timeWeek": 314,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "time": 341,
+    "timeDay": 347,
+    "timeWeek": 306,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   }
 ]
