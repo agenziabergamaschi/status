@@ -4,15 +4,15 @@
     "url": "https://agenziabergamaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
-    "status": "up",
-    "uptime": "67.32%",
-    "uptimeDay": "29.03%",
+    "status": "down",
+    "uptime": "67.11%",
+    "uptimeDay": "29.04%",
     "uptimeWeek": "30.91%",
-    "uptimeMonth": "67.32%",
-    "uptimeYear": "67.32%",
+    "uptimeMonth": "67.11%",
+    "uptimeYear": "67.11%",
     "time": 625,
-    "timeDay": 714,
-    "timeWeek": 651,
+    "timeDay": 681,
+    "timeWeek": 647,
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
       "2026-06-18": 741,
       "2026-06-19": 1027,
       "2026-06-20": 1189,
-      "2026-06-21": 403
+      "2026-06-21": 533
     }
   },
   {
@@ -45,19 +45,19 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
     "status": "up",
-    "uptime": "77.38%",
-    "uptimeDay": "52.28%",
-    "uptimeWeek": "77.38%",
-    "uptimeMonth": "77.38%",
-    "uptimeYear": "77.38%",
-    "time": 1079,
-    "timeDay": 1079,
-    "timeWeek": 1079,
-    "timeMonth": 1079,
-    "timeYear": 1079,
+    "uptime": "74.18%",
+    "uptimeDay": "43.19%",
+    "uptimeWeek": "74.18%",
+    "uptimeMonth": "74.18%",
+    "uptimeYear": "74.18%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2026-06-20": 290,
-      "2026-06-21": 397
+      "2026-06-21": 528
     }
   },
   {
@@ -65,20 +65,20 @@
     "url": "https://api.spaziotricolore.it",
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
-    "status": "down",
-    "uptime": "77.70%",
-    "uptimeDay": "52.97%",
-    "uptimeWeek": "77.70%",
-    "uptimeMonth": "77.70%",
-    "uptimeYear": "77.70%",
-    "time": 694,
-    "timeDay": 694,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "status": "up",
+    "uptime": "74.49%",
+    "uptimeDay": "43.88%",
+    "uptimeWeek": "74.49%",
+    "uptimeMonth": "74.49%",
+    "uptimeYear": "74.49%",
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2026-06-20": 285,
-      "2026-06-21": 392
+      "2026-06-21": 523
     }
   },
   {
