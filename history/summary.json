@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
     "status": "down",
-    "uptime": "66.72%",
-    "uptimeDay": "37.58%",
-    "uptimeWeek": "31.82%",
-    "uptimeMonth": "66.41%",
-    "uptimeYear": "66.72%",
+    "uptime": "66.28%",
+    "uptimeDay": "35.55%",
+    "uptimeWeek": "31.54%",
+    "uptimeMonth": "65.74%",
+    "uptimeYear": "66.28%",
     "time": 621,
-    "timeDay": 577,
-    "timeWeek": 624,
+    "timeDay": 556,
+    "timeWeek": 618,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
@@ -36,7 +36,8 @@
       "2026-06-18": 741,
       "2026-06-19": 1027,
       "2026-06-20": 1189,
-      "2026-06-21": 882
+      "2026-06-21": 908,
+      "2026-06-22": 267
     }
   },
   {
@@ -45,19 +46,20 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
     "status": "down",
-    "uptime": "68.76%",
-    "uptimeDay": "38.60%",
-    "uptimeWeek": "68.76%",
-    "uptimeMonth": "68.76%",
-    "uptimeYear": "68.76%",
+    "uptime": "63.72%",
+    "uptimeDay": "36.24%",
+    "uptimeWeek": "63.72%",
+    "uptimeMonth": "63.72%",
+    "uptimeYear": "63.72%",
     "time": 857,
-    "timeDay": 797,
+    "timeDay": 758,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2026-06-20": 290,
-      "2026-06-21": 867
+      "2026-06-21": 893,
+      "2026-06-22": 267
     }
   },
   {
@@ -66,19 +68,20 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
     "status": "down",
-    "uptime": "69.28%",
-    "uptimeDay": "39.62%",
-    "uptimeWeek": "69.28%",
-    "uptimeMonth": "69.28%",
-    "uptimeYear": "69.28%",
+    "uptime": "64.21%",
+    "uptimeDay": "36.92%",
+    "uptimeWeek": "64.21%",
+    "uptimeMonth": "64.21%",
+    "uptimeYear": "64.21%",
     "time": 631,
-    "timeDay": 597,
+    "timeDay": 545,
     "timeWeek": 631,
     "timeMonth": 631,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2026-06-20": 285,
-      "2026-06-21": 853
+      "2026-06-21": 879,
+      "2026-06-22": 267
     }
   },
   {
@@ -92,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 233,
-    "timeWeek": 315,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "time": 344,
+    "timeDay": 474,
+    "timeWeek": 331,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   }
 ]
