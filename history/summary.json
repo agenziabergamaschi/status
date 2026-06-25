@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenziabergamaschi.com.ico",
     "slug": "ab",
     "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.57%",
+    "uptime": "97.19%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "97.19%",
     "time": 626,
     "timeDay": 581,
     "timeWeek": 634,
@@ -22,7 +22,7 @@
       "2026-06-02": 154,
       "2026-06-12": 531,
       "2026-06-21": 131,
-      "2026-06-25": 10
+      "2026-06-25": 204
     }
   },
   {
@@ -31,11 +31,11 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st",
     "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "uptime": "96.01%",
+    "uptimeDay": "86.20%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
     "time": 885,
     "timeDay": 757,
     "timeWeek": 885,
@@ -43,7 +43,7 @@
     "timeYear": 885,
     "dailyMinutesDown": {
       "2026-06-21": 131,
-      "2026-06-25": 5
+      "2026-06-25": 199
     }
   },
   {
@@ -52,18 +52,19 @@
     "icon": "https://spaziotricolore.it/icon/icon-1024x1024.png",
     "slug": "st-api",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "96.08%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
     "time": 689,
     "timeDay": 671,
     "timeWeek": 689,
     "timeMonth": 689,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-06-21": 131
+      "2026-06-21": 131,
+      "2026-06-25": 194
     }
   },
   {
@@ -79,7 +80,7 @@
     "uptimeYear": "100.00%",
     "time": 339,
     "timeDay": 219,
-    "timeWeek": 319,
+    "timeWeek": 328,
     "timeMonth": 332,
     "timeYear": 339,
     "dailyMinutesDown": {}
