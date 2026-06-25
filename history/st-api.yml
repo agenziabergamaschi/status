@@ -1,7 +1,7 @@
 url: https://api.spaziotricolore.it
-status: up
-code: 200
-responseTime: 615
-lastUpdated: 2026-06-25T18:05:49.342Z
+status: down
+code: 415
+responseTime: 533
+lastUpdated: 2026-06-25T23:04:09.655Z
 startTime: 2026-06-19T09:49:27.418Z
 generator: Upptime <https://github.com/upptime/upptime>
